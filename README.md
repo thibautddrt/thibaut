@@ -2,5 +2,5 @@
 Hey!!
 <div id="header" align="center">
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwallup.net%2Fwp-content%2Fuploads%2F2017%2F11%2F17%2F206405-Linux-GNU.jpg&f=1&nofb=1&ipt=85b25ea4b616e6d970e256cf343c244a2bfbd5319f275f6a0a31116bde32daf3&ipo=images)https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwallup.net%2Fwp-content%2Fuploads%2F2017%2F11%2F17%2F206405-Linux-GNU.jpg&f=1&nofb=1&ipt=85b25ea4b616e6d970e256cf343c244a2bfbd5319f275f6a0a31116bde32daf3&ipo=images" width="100"/>
+  <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2F1.bp.blogspot.com%2F-UdW8f15X5fw%2FXy7sbZAy2TI%2FAAAAAAAAXGU%2FDCR8nxO6MbMKCseT3ZE33v1DmTY-kVDaQCLcBGAsYHQ%2Fs964%2Fgnu.gif&f=1&nofb=1&ipt=47e4e0f3ceaf38c836c1f927625d860a89270b34d90d8b01ae206646376ec97f&ipo=images" width="100"/>
 </div>
