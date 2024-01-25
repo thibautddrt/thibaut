@@ -1,4 +1,4 @@
-# Hey!!
+# Hey!
 
 Les languages qui j'apprend sont le html/css et python.
 Aime Linux, les logiciels libre et l'open source.
