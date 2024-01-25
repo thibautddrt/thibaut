@@ -1,6 +1,6 @@
 # Hey!
 
-Les languages que j'apprend sont le html/css et python.
+Les languages que j'apprend sont le html/css et le python.
 J'aime Linux, les logiciels libre et l'open source.
 <div id="header" align="center">
 <div id="header" align="center">
